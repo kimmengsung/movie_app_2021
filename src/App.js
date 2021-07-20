@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 
-function App() { // 바꿈
+function App() { // 바꿈 또 바꿈!!
   return (
     <div className="App">
       <header className="App-header">
